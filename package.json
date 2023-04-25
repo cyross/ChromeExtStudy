@@ -1,0 +1,12 @@
+{
+  "name": "youtube_to_google_calendar",
+  "version": "0.0.1",
+  "description": "Youtubeの通知をGoogleCalenderに登録",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}

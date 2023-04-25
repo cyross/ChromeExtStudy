@@ -1,0 +1,3 @@
+export const googleAPIConfig = {
+  apiKey: "[GOOGLE API KEY]"
+};

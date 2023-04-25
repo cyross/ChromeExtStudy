@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "youtube_to_google_calendar",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "yt2gc",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Youtubeの通知をGoogleCalenderに登録",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "youtube_to_google_calendar",
+    "description": "The title of the browser action button"
+  }
+}
