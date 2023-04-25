@@ -11,6 +11,11 @@ Google ChromeからGoogle Cloud APIを呼び出す拡張を勉強のために作
 
 単なる技術研鑽用のプロジェクト。
 
+## 注意
+
+`app/scripts/config.js.sample` と `app/manifest.json.sample` は、ナイーブな情報を扱うため、サンプルだけ用意している。
+それぞれ、 `app/scripts/config.js` と `app/manifest.json` にリネームして適時修正する必要がある
+
 ## Install
 
 	$ npm install
